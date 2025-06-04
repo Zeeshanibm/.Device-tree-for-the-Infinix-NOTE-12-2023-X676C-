@@ -7,3 +7,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     twrp_Infinix-X676C-eng
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/twrp_Infinix-X676C.mk
